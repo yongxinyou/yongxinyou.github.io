@@ -3,9 +3,9 @@
   <entry>
     <title>使用hexo搭建blog</title>
     <url>/2019/11/29/%E4%BD%BF%E7%94%A8hexo%E6%90%AD%E5%BB%BAblog/</url>
-    <content><![CDATA[<p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p>
+    <content><![CDATA[<p>  Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>  以下主题设置，用的是主题next</p>
 <a id="more"></a>
-<h2 id="1-使用hexo搭建博客"><a href="#1-使用hexo搭建博客" class="headerlink" title="1. 使用hexo搭建博客"></a>1. 使用hexo搭建博客</h2><ol>
+<h2 id="使用hexo搭建博客"><a href="#使用hexo搭建博客" class="headerlink" title="使用hexo搭建博客"></a>使用hexo搭建博客</h2><ol>
 <li>安装node.js</li>
 </ol>
 <ul>
@@ -52,7 +52,7 @@
 <li><p>hexo s</p>
 </li>
 </ul>
-<h2 id="2-将搭建好的blog部署到github上"><a href="#2-将搭建好的blog部署到github上" class="headerlink" title="2. 将搭建好的blog部署到github上"></a>2. 将搭建好的blog部署到github上</h2><p>登录github，现在一个仓库</p>
+<h2 id="将搭建好的blog部署到github上"><a href="#将搭建好的blog部署到github上" class="headerlink" title="将搭建好的blog部署到github上"></a>将搭建好的blog部署到github上</h2><p>登录github，现在一个仓库</p>
 <ul>
 <li>新建仓库名: github昵称.github.io</li>
 </ul>
@@ -68,7 +68,7 @@
 <li>hexo d</li>
 <li>然后博客的url就变成了  仓库名</li>
 </ul>
-<h2 id="3-更换博客主题"><a href="#3-更换博客主题" class="headerlink" title="3. 更换博客主题"></a>3. 更换博客主题</h2><ul>
+<h2 id="更换博客主题"><a href="#更换博客主题" class="headerlink" title="更换博客主题"></a>更换博客主题</h2><ul>
 <li><p>git clone <a href="https://github.com/theme-next/hexo-theme-next" target="_blank" rel="external nofollow noopener noreferrer">https://github.com/theme-next/hexo-theme-next</a> themes/next</p>
 </li>
 <li><p>设置blog目录下的_config.yml文件。</p>
@@ -83,7 +83,16 @@
 <li><p>hexo d </p>
 </li>
 </ul>
+<h2 id="主题设置"><a href="#主题设置" class="headerlink" title="主题设置"></a>主题设置</h2><p><a href="https://leyan.pro/2019/10/17/Next7%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE/" target="_blank" rel="external nofollow noopener noreferrer">next主题设置1</a></p>
+<p><a href="http://xietonglei.xyz/2019/11/13/Github+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%884%EF%BC%89%E2%80%94Next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%961/" target="_blank" rel="external nofollow noopener noreferrer">next主题设置2</a></p>
 ]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+        <tag>hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -103,5 +112,11 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="external nofollow noopener noreferrer">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hello</tag>
+      </tags>
   </entry>
 </search>
